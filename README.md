@@ -56,7 +56,8 @@ III. **props:**  son objetos que pasan datos de un componente padre a un compone
 IV. **state:** es un objeto que contiene datos dinámicos y controla el comportamiento de un componente en React.
 
 4. ### ***Patrón de diseño estructural Composite, en qué consiste y cuál es su relación con React?***
-<img src="https://github.com/LuisalyCompres/react_intro/blob/main/state.png?raw=true" alt="composite" width="100">
+
+<img src="https://github.com/LuisalyCompres/react_intro/blob/main/composite.png?raw=true" alt="composite" width="400">
 
 **El patrón de diseño estructural Composite:** se utiliza para componer objetos en estructuras de árbol para representar jerarquías de parte-todo. 
 
@@ -65,7 +66,7 @@ IV. **state:** es un objeto que contiene datos dinámicos y controla el comporta
 **La relación entre el patrón Composite y React** radica en cómo React implementa la composición de componentes para construir interfaces de usuario. En React, los componentes se pueden componer de manera jerárquica para formar la estructura de la interfaz de usuario de una aplicación. Esta composición es fundamentalmente similar al patrón Composite, donde los objetos individuales y compuestos se manejan de manera uniforme.
 
 5. ### ***Patrón de diseño estructural State, en qué consiste y cuál es su relación con React?***
-<img src="https://github.com/LuisalyCompres/react_intro/blob/main/state.png?raw=true" alt="state" width="300">
+<img src="https://github.com/LuisalyCompres/react_intro/blob/main/state.png?raw=true" alt="state" width="400">
 
 **El patrón de diseño estructural State:** se utiliza para permitir que un objeto altere su comportamiento cuando su estado interno cambia. En este patrón, el objeto delega el cambio de su comportamiento a un objeto que representa su estado actual. 
 
